@@ -1,0 +1,7 @@
+yt-dlp
+faster-whisper
+google-genai
+requests
+python-dotenv
+opencv-python-headless
+streamlit
